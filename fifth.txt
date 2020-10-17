@@ -2,3 +2,5 @@ this file is added remotly
 
 
 changes in 5th txt = hot fix issue update
+
+stash checking 
